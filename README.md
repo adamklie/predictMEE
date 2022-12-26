@@ -69,6 +69,4 @@ Certain notebooks require data and output from other notebooks. In order to run 
 7. evaluatePrediction.ipynb
 
 ## Citation
-Klie, A. *et al.* 2020. *Increasing metadata coverage of SRA BioSample entries using deep learning based Named Entity Recognition.* In preparation.
-
-
+Klie A, Tsui BY, Mollah S, Skola D, Dow M, Hsu C-N, et al. Increasing metadata coverage of SRA BioSample entries using deep learning-based named entity recognition. Database. 2021;2021. doi:10.1093/database/baab021
